@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beaninfos>
+    <beaninfo class="javax.swing.JLayeredPane" resource="layered_pane">
+    	<property name="border"/>
+        <property name="font" category="Others">
+            <default lnf="Windows" value="[SimSun, 0, 12]"/>
+        </property>
+        <property name="background" category="Others">
+            <default lnf="Windows" value="[236, 233, 216]"/>
+        </property>
+        <property name="foreground" category="Others">
+            <default lnf="Windows" value="black"/>
+        </property>
+    </beaninfo>
+</beaninfos>

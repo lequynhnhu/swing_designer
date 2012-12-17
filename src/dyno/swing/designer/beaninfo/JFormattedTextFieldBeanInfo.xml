@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beaninfos>
+    <beaninfo class="javax.swing.JFormattedTextField" resource="formatted_field">
+    	<property name="border"/>
+	<property name="focusLostBehavior"
+                  items="dyno.swing.designer.properties.items.FocusLostBehaviorItems"
+		  category="Others"/>
+    </beaninfo>
+</beaninfos>
+

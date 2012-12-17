@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beaninfos>
+    <beaninfo class="javax.swing.JFrame" resource="jframe">
+        <property name="title"/>
+        <property name="defaultCloseOperation"
+                  items="dyno.swing.designer.properties.items.FrameDefaultCloseOperationItems"/>
+        <property name="background" category="Others">
+            <default lnf="Metal" value="[236, 233, 216]"/>
+        </property>
+        <property name="font" category="Others">
+            <default lnf="Windows" value="[Dialog, 0, 12]"/>
+            <default lnf="Metal" value="[Dialog, 0, 12]"/>
+        </property>
+        <property name="foreground" category="Others">
+            <default lnf="Windows" value="black"/>
+            <default lnf="Metal" value="black"/>
+        </property>
+        <property name="alwaysOnTop" category="Others"/>
+        <property name="extendedState" category="Others"/>
+        <property name="focusableWindowState" category="Others"/>
+        <property name="locationByPlatform" category="Others"/>
+        <property name="maximizedBounds" category="Others"/>
+        <property name="resizable" category="Others"/>
+        <property name="state" category="Others"/>
+        <property name="undecorated" category="Others"/>
+        <property name="iconImage" 
+                  editor="dyno.swing.designer.properties.editors.ImageEditor" 
+                  renderer="dyno.swing.designer.properties.renderer.ImageCellRenderer" 
+                  category="Others"/>
+    </beaninfo>
+</beaninfos>
+

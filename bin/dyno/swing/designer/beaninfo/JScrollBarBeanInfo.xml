@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beaninfos>
+    <beaninfo class="javax.swing.JScrollBar" resource="scroll_bar">
+    	<property name="blockIncrement"/>
+    	<property name="maximum"/>
+    	<property name="minimum"/>
+    	<property name="orientation"                   
+                  items="dyno.swing.designer.properties.items.OrientationItems"/>
+        <property name="unitIncrement"/>
+        <property name="visibleAmount"/>
+        <property name="value"/>
+        <property name="valueIsAdjusting" category="Others"/>
+        <property name="font" category="Others">
+            <default lnf="Windows" value="[SimSun, 0, 12]"/>
+        </property>
+    </beaninfo>
+</beaninfos>

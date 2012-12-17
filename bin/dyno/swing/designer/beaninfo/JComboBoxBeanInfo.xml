@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beaninfos>
+    <beaninfo class="javax.swing.JComboBox" resource="combo_box">
+    	<property name="editable"/>
+    	<property name="maximumRowCount"/>
+    	<property name="selectedIndex"/>
+    	<property name="selectedItem"/>
+        <property name="model" 
+                  editor="dyno.swing.designer.properties.editors.ComboBoxModelEditor"
+                  renderer="dyno.swing.designer.properties.renderer.ComboBoxModelRenderer"/>
+        <property name="lightWeightPopupEnabled" category="Others"/>
+    </beaninfo>
+</beaninfos>

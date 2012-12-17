@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beaninfos>
+    <beaninfo class="javax.swing.JSeparator" resource="separator">
+        <property name="orientation"
+                  items="dyno.swing.designer.properties.items.OrientationItems"/>
+        <property name="font" category="Others">
+             <default lnf="Windows" value="[SimSun, 0, 12]"/>
+        </property>
+    </beaninfo>
+</beaninfos>

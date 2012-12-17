@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beaninfos>
+    <beaninfo class="javax.swing.JTree" resource="tree">
+        <property name="border"/>
+        <property name="dragEnabled" category="Others"/>
+        <property name="editable" category="Others"/>
+        <property name="expandsSelectedPaths" category="Others"/>
+        <property name="invokesStopCellEditing" category="Others"/>
+        <property name="largeModel" category="Others"/>
+        <property name="rootVisible" category="Others"/>
+        <property name="rowHeight" category="Others"/>
+        <property name="scrollsOnExpand" category="Others"/>
+        <property name="showsRootHandles" category="Others"/>
+        <property name="toggleClickCount" category="Others"/>
+        <property name="visibleRowCount" category="Others"/>
+        <property name="selectionPath" gencode="false" category="Others"/>
+        <property name="foreground" category="Others">
+            <default lnf="Windows" value="black"/>
+        </property>
+    </beaninfo>
+</beaninfos>

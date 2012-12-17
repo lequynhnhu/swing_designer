@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beaninfos>
+    <beaninfo class="javax.swing.JDesktopPane" resource="desktop_pane">
+    	<property name="dragMode"
+                  items="dyno.swing.designer.properties.items.DesktopPaneDragModeItems"
+                  category="Others"/> 
+	<property name="font" gencode="false" category="Others"/>
+        <property name="foreground" category="Others" gencode="false"/>
+        <property name="preferredSize" category="Others" gencode="false"/>
+        <property name="background" category="Others">
+            <default lnf="Windows" value="[0, 78, 152]"/>
+        </property>
+    </beaninfo>
+</beaninfos>

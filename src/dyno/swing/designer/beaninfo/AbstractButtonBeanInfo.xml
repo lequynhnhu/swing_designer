@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beaninfos>
+    <beaninfo class="javax.swing.AbstractButton" abstract="true">
+        <property name="text"/>
+        <property name="margin" category="Others"/>
+        <property name="borderPainted" category="Others"/>
+        <property name="contentAreaFilled" category="Others"/>
+        <property name="disabledIcon"  
+                  editor="dyno.swing.designer.properties.editors.IconEditor" 
+                  renderer="dyno.swing.designer.properties.renderer.IconCellRenderer" 
+                  category="Others"/>
+        <property name="disabledSelectedIcon" 
+                  editor="dyno.swing.designer.properties.editors.IconEditor" 
+                  renderer="dyno.swing.designer.properties.renderer.IconCellRenderer"
+                  category="Others"/>
+        <property name="focusPainted" category="Others"/>
+        <property name="hideActionText" category="Others"/>
+        <property name="horizontalAlignment" 
+                  items="dyno.swing.designer.properties.items.HorizontalAlignmentItems"
+                  category="Others"/>
+        <property name="horizontalTextPosition" 
+                  items="dyno.swing.designer.properties.items.HorizontalAlignmentItems"
+                  category="Others"/>
+        <property name="icon" 
+                  editor="dyno.swing.designer.properties.editors.IconEditor" 
+                  renderer="dyno.swing.designer.properties.renderer.IconCellRenderer"
+                  />
+        <property name="iconTextGap" category="Others"/>
+        <property name="label" category="Others" gencode="false"/>
+        <property name="multiClickThreshhold" category="Others"/>
+        <property name="pressedIcon" 
+                  editor="dyno.swing.designer.properties.editors.IconEditor" 
+                  renderer="dyno.swing.designer.properties.renderer.IconCellRenderer"
+                  category="Others"/>
+        <property name="rolloverEnabled" category="Others"/>
+        <property name="rolloverIcon"
+                  editor="dyno.swing.designer.properties.editors.IconEditor" 
+                  renderer="dyno.swing.designer.properties.renderer.IconCellRenderer"
+                  category="Others"/>
+        <property name="rolloverSelectedIcon"
+                  editor="dyno.swing.designer.properties.editors.IconEditor" 
+                  renderer="dyno.swing.designer.properties.renderer.IconCellRenderer"
+                  category="Others"/>
+        <property name="selected" category="Others"/>
+        <property name="selectedIcon"
+                  editor="dyno.swing.designer.properties.editors.IconEditor" 
+                  renderer="dyno.swing.designer.properties.renderer.IconCellRenderer"
+                  category="Others"/>
+        <property name="verticalAlignment"
+                  items="dyno.swing.designer.properties.items.VerticalAlignmentItems"
+                  category="Others"/>
+        <property name="verticalTextPosition"
+                  items="dyno.swing.designer.properties.items.VerticalAlignmentItems"
+                  category="Others"/>
+    </beaninfo>
+</beaninfos>

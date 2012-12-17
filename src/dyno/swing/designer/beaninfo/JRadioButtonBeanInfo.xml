@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beaninfos>
+    <beaninfo class="javax.swing.JRadioButton" resource="radio_button">
+        <property name="selected"/>
+        <property name="icon" category="Others"/>
+    </beaninfo>
+</beaninfos>

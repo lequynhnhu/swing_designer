@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="GBK"?>
+
+<!--
+    Document   : lnfs.xml
+    Created on : 2007年10月28日, 下午1:58
+    Author     : William Chen
+    Description:
+        Purpose of the document follows.
+-->
+
+<LookAndFeels>
+    <!--
+    <LookAndFeel name="JGoodies Plastic 3D LnF" class="com.jgoodies.looks.plastic.Plastic3DLookAndFeel"/>
+    <LookAndFeel name="JGoodies Plastic XP LnF" class="com.jgoodies.looks.plastic.PlasticXPLookAndFeel"/>
+    -->
+</LookAndFeels>

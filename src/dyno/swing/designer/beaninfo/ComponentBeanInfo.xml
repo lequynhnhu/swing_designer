@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beaninfos>
+    <beaninfo class="java.awt.Component" abstract="true">
+        <property name="name" description="The component's variable name" gencode="false" />
+        <property name="background" description="The background color of the component"/>
+        <property name="foreground" description="The foreground color of the component"/>;
+        <property name="font"/>;
+        <property name="enabled" category="Others"/>
+        <property name="preferredSize" category="Others"/>
+        <property name="minimumSize" gencode="false" category="Others"/>
+        <property name="maximumSize" gencode="false" category="Others"/>
+        <property name="focusable" category="Others"/>
+    </beaninfo>
+</beaninfos>

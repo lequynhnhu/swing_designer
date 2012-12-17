@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beaninfos>
+    <beaninfo class="javax.swing.JProgressBar" resource="progress_bar">
+        <property name="value"/>
+        <property name="maximum"/>
+        <property name="minimum"/>
+        <property name="orientation"
+                  items="dyno.swing.designer.properties.items.OrientationItems"/>
+        <property name="string" category="Others"/>
+        <property name="borderPainted" category="Others"/>
+        <property name="stringPainted" category="Others"/>
+        <property name="indeterminate" category="Others"/>
+    </beaninfo>
+</beaninfos>

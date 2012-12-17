@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beaninfos>
+    <beaninfo class="javax.swing.JTable" resource="table">
+    	<property name="autoCreateColumnsFromModel"/>
+    	<property name="autoCreateRowSorter"/>
+    	<property name="border"/>
+    	<property name="model"/>
+        <property name="autoResizeMode"
+                  items="dyno.swing.designer.properties.items.AutoResizeModeItems"
+                  category="Others"/>
+    	<property name="cellSelectionEnabled" category="Others"/>
+    	<property name="columnSelectionAllowed" category="Others"/>
+    	<property name="dragEnabled" category="Others"/>
+    	<property name="editingColumn" category="Others"/>
+    	<property name="editingRow" category="Others"/>
+    	<property name="fillsViewportHeight" category="Others"/>
+    	<property name="gridColor" category="Others"/>
+    	<property name="intercellSpacing" category="Others"/>
+    	<property name="rowHeight" category="Others"/>
+    	<property name="rowMargin" category="Others"/>
+    	<property name="rowSelectionAllowed" category="Others"/>
+    	<property name="selectionBackground" category="Others"/>
+    	<property name="selectionForeground" category="Others"/>
+    	<property name="showHorizontalLines" category="Others"/>
+    	<property name="showVerticalLines" category="Others"/>
+    	<property name="surrendersFocusOnKeystroke" category="Others"/>
+    	<property name="updateSelectionOnSort" category="Others"/>
+    </beaninfo>
+</beaninfos>

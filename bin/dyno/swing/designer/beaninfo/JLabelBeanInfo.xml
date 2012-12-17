@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beaninfos>
+    <beaninfo class="javax.swing.JLabel" resource="label">
+        <property name="font"/>
+        <property name="text"/>
+        <property name="border" category="Others">
+            <default lnf="Windows" value="null"/>
+        </property>
+        <property name="horizontalAlignment" 
+                  items="dyno.swing.designer.properties.items.HorizontalAlignmentItems" />
+        <property name="verticalAlignment"
+                  items="dyno.swing.designer.properties.items.VerticalAlignmentItems" />
+        <property name="icon" 
+                  editor="dyno.swing.designer.properties.editors.IconEditor" 
+                  renderer="dyno.swing.designer.properties.renderer.IconCellRenderer"/>
+        <property name="alignmentX" category="Others"/>
+        <property name="alignmentY" category="Others"/>
+        <property name="autoscrolls" category="Others"/>
+        <property name="disabledIcon" category="Others"
+                  editor="dyno.swing.designer.properties.editors.IconEditor" 
+                  renderer="dyno.swing.designer.properties.renderer.IconCellRenderer"/>
+        <property name="focusCycleRoot" category="Others"/>
+        <property name="focusTraversalPolicyProvider" category="Others"/>
+        <property name="focusable" category="Others"/>
+        <property name="horizontalTextPosition" 
+                  items="dyno.swing.designer.properties.items.HorizontalAlignmentItems"
+                  category="Others"/>
+        <property name="iconTextGap" category="Others"/>
+        <property name="inheritsPopupMenu" category="Others"/>
+        <property name="requestFocusEnabled" category="Others"/>
+        <property name="verifyInputWhenFocusTarget" category="Others"/>
+        <property name="verticalTextPosition"
+                  items="dyno.swing.designer.properties.items.VerticalAlignmentItems"
+                  category="Others"/>
+    </beaninfo>
+</beaninfos>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beaninfos>
+    <beaninfo class="javax.swing.JScrollPane" resource="scroll_pane">
+    	<property name="border"/>
+    	<property name="horizontalScrollBarPolicy"
+    		  items="dyno.swing.designer.properties.items.HorizontalScrollBarPolicyItems" />
+    	<property name="verticalScrollBarPolicy"
+    		  items="dyno.swing.designer.properties.items.VerticalScrollBarPolicyItems" />
+        <property name="viewportBorder"/>                  
+    	<property name="font" category="Others"/>
+    	<property name="wheelScrollingEnabled" category="Others"/>
+    </beaninfo>
+</beaninfos>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beaninfos>
+    <beaninfo class="javax.swing.JTabbedPane" resource="tabbed_pane" designer-editor="dyno.swing.designer.beans.editors.TextEditor" >
+    	<property name="border"/>
+    	<property name="selectedIndex" gencode="false" />
+    	<property name="tabLayoutPolicy"
+                  items="dyno.swing.designer.properties.items.TabLayoutPolicyItems" />
+    	<property name="tabPlacement"
+                  items="dyno.swing.designer.properties.items.TabPlacementItems" />
+    	<property name="font" category="Others"/>
+    </beaninfo>
+</beaninfos>

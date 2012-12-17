@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beaninfos>
+    <beaninfo class="javax.swing.JComponent" abstract="true">
+        <property name="border" category="Others"/>
+        <property name="opaque" category="Others"/>
+        <property name="toolTipText"/>
+        <property name="doubleBuffered" category="Others"/>
+        <property name="alignmentX" category="Others"/>
+        <property name="alignmentY" category="Others"/>
+        <property name="autoscrolls" category="Others"/>
+        <property name="debugGraphicsOptions" 
+                  items = "dyno.swing.designer.properties.items.DebugGraphicsOptionsItems"
+                  category="Others"/>
+        <property name="inheritsPopupMenu" category="Others"/>
+        <property name="requestFocusEnabled" category="Others"/>
+        <property name="verifyInputWhenFocusTarget" category="Others"/>
+        
+    </beaninfo>
+</beaninfos>

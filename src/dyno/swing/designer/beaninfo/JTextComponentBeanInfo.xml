@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beaninfos>
+    <beaninfo class="javax.swing.text.JTextComponent" abstract="true">
+        <property name="text"/>
+    	<property name="editable"/>
+    	<property name="caretColor" category="Others"/>
+    	<property name="caretPosition" gencode="false" category="Others"/>
+    	<property name="disabledTextColor" category="Others"/>
+    	<property name="dragEnabled" category="Others"/>
+    	<property name="margin" category="Others"/>
+    	<property name="selectedTextColor" category="Others"/>
+    	<property name="selectionColor" category="Others"/>
+    	<property name="selectionEnd" gencode="false" category="Others"/>
+    	<property name="selectionStart" gencode="false" category="Others"/>
+    </beaninfo>
+</beaninfos>

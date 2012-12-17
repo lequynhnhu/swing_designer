@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beaninfos>
+    <beaninfo class="javax.swing.JSpinner" resource="spinner">
+        <property name="border"
+                  gencode="false"
+                  category="Others"/>
+        <property name="model"
+                  editor="dyno.swing.designer.properties.editors.SpinnerModelEditor"
+                  renderer="dyno.swing.designer.properties.renderer.SpinnerModelRenderer"/>
+    </beaninfo>
+</beaninfos>

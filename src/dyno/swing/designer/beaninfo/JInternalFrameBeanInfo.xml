@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beaninfos>
+    <beaninfo class="javax.swing.JInternalFrame" resource="internal_frame">
+    	<property name="border" gencode="false" category="Others" />
+    	<property name="closable"/>
+        <property name="defaultCloseOperation"
+                  items="dyno.swing.designer.properties.items.InternalFrameDefaultCloseOperationItems"/>
+	<property name="iconifiable"/>
+	<property name="font" gencode="false" category="Others"/>
+        <property name="foreground" category="Others" gencode="false"/>
+	<property name="maximizable"/>
+	<property name="resizable"/>
+	<property name="title"/>                  
+        <property name="frameIcon" 
+                  editor="dyno.swing.designer.properties.editors.IconEditor" 
+                  renderer="dyno.swing.designer.properties.renderer.IconCellRenderer" 
+                  category="Others"/>
+        <property name="icon" category="Others"/>
+        <property name="layer" category="Others"/>
+        <property name="maximum" category="Others"/>
+        <property name="normalBounds" gencode="false" category="Others"/>
+        <property name="selected" gencode="false" category="Others"/>
+        <property name="visible" category="Others"/>
+        <property name="preferredSize" category="Others" gencode="false"/>
+    </beaninfo>
+</beaninfos>

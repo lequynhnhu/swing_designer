@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beaninfos>
+    <beaninfo class="javax.swing.JTextField" resource="text_field">
+    	<property name="columns"/>
+        <property name="horizontalAlignment" 
+                  items="dyno.swing.designer.properties.items.HorizontalAlignmentItems"/>
+	<property name="scrollOffset" gencode="false" category="Others"/>
+    </beaninfo>
+</beaninfos>

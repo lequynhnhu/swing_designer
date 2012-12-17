@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beaninfos>
+    <beaninfo class="javax.swing.JPanel" resource="panel">
+        <property name="border"/>
+        <property name="font" category="Others"/>
+        
+    </beaninfo>
+</beaninfos>

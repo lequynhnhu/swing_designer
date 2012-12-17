@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beaninfos>
+    <beaninfo class="javax.swing.JEditorPane" resource="editor_pane">
+    	<property name="contentType"/>
+    	<property name="border"/>
+    </beaninfo>
+</beaninfos>
+

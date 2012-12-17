@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beaninfos>
+    <beaninfo class="javax.swing.JSplitPane" resource="split_pane">
+    	<property name="border"/>
+    	<property name="dividerLocation">
+            <default lnf="Windows" value="56"/>
+        </property>
+    	<property name="dividerSize"/>
+        <property name="orientation"
+                  items="dyno.swing.designer.properties.items.SplitPaneOrientationItems"/>
+    	<property name="resizeWeight"/>
+    	<property name="continuousLayout" category="Others"/>
+    	<property name="lastDividerLocation" gencode="false" category="Others"/>
+    	<property name="oneTouchExpandable" category="Others"/>
+        <property name="foreground" gencode="false" category="Others"/>
+        <property name="font" category="Others">
+            <default lnf="Windows" value="[SimSun, 0, 12]"/>
+        </property>
+    </beaninfo>
+</beaninfos>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beaninfos>
+    <beaninfo class="javax.swing.JSlider" resource="slider">
+        <property name="value"/>
+        <property name="majorTickSpacing"/>
+        <property name="maximum"/>
+        <property name="minimum"/>
+        <property name="minorTickSpacing"/>
+        <property name="orientation"
+                  items="dyno.swing.designer.properties.items.OrientationItems"/>
+        <property name="paintLabels"/>
+        <property name="paintTicks"/>
+        <property name="paintTrack"/>
+        <property name="snapToTicks"/>
+        <property name="extent" category="Others"/>
+        <property name="inverted" category="Others"/>
+        <property name="valueIsAdjusting" category="Others"/>
+    </beaninfo>
+</beaninfos>

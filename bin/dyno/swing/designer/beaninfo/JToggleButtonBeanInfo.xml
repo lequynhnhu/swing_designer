@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beaninfos>
+    <beaninfo class="javax.swing.JToggleButton" resource="toggle_button">        
+    	<property name="selected"/>
+    </beaninfo>
+</beaninfos>

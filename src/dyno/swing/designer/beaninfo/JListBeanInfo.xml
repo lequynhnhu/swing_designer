@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beaninfos>
+    <beaninfo class="javax.swing.JList" resource="list">
+    	<property name="border"/>
+    	<property name="selectionMode"
+    	items="dyno.swing.designer.properties.items.ListSelectionModeItems"
+    	/>
+        <property name="model" 
+                  editor="dyno.swing.designer.properties.editors.ListModelEditor"
+                  renderer="dyno.swing.designer.properties.renderer.ListModelRenderer"/>
+        <property name="dragEnabled" category="Others"/>
+        <property name="fixedCellHeight" category="Others"/>
+        <property name="fixedCellWidth" category="Others"/>
+        <property name="layoutOrientation"
+                  items="dyno.swing.designer.properties.items.LayoutOrientationItems"
+                  category="Others"/>
+        <property name="selectedIndex" category="Others"/>
+        <property name="selectionBackground" category="Others"/>
+        <property name="selectionForeground" category="Others"/>
+        <property name="valueIsAdjusting" category="Others"/>
+        <property name="visibleRowCount" category="Others"/>
+    </beaninfo>
+</beaninfos>
